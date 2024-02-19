@@ -1,6 +1,6 @@
 # Excel-Dashboard-Cookie-Shop
 
-![](sql_layout.jpg)  
+![](Exceldashboardpic.jpg)  
 [Excel Dashboard LinK ](Exceldashboard2024macro.xlsm)
 
 
